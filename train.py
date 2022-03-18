@@ -1,6 +1,7 @@
 #
 #   @author: Mehmet Kaan Erol
 #
+#   For the PaDiM implementation used here: github.com/xiahaifeng1995/PaDiM-Anomaly-Detection-Localization-master/blob/main/main.py
 import os
 import random
 import pickle
